@@ -1,4 +1,6 @@
 {
+  "name": "matomo-icons",
+  "version": "1.0.0",
   "dependencies": {
     "browser-logos": "github:Findus23/browser-logos",
     "flag-icons": "github:lipis/flag-icon-css"
